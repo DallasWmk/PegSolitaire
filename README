@@ -1,0 +1,8 @@
+NOTE!!!: This program was written while I was in college and my programming skills have greatly developed since then. I am actively trying to refactor these
+files to improve function as well as readability
+
+I have edited the Separatechaining.h and .cpp files, and included a DoubleHashing.h file. Please use those.
+
+In addition to the files, the initial size is set to 1000 not 100,000 because 100,000 creates too small a load factor, even with the board provided
+which has 20 pegs in it. If the input you are using will need a larger initial size, please change it. Size can be found on line 38 of the Lab12.cpp
+file. 
